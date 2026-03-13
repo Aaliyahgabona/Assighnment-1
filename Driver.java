@@ -12,6 +12,7 @@ public class Driver extends User {
     static void Profile() {
         super.login();
         System.out.println("view details");
+        
     }
 
     static void acceptRide() {
